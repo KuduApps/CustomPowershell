@@ -1,0 +1,2 @@
+[config]
+command = powershell -file hello.ps1
